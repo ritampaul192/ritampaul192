@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritam Paul</h1>
-<h3 align="center">CSE-AIML Student | Web Developer | Backend Enthusiast | Open Source Explorer</h3>
+<h3 align="center">CSE-AIML Student | MERN Developer | Next.Js Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Full+Stack+Learner;Backend+Focused+Developer;Hackathon+Participant;Passionate+Problem+Solver" alt="Typing SVG" />
@@ -11,8 +11,8 @@
 
 - 🎓 **B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning)**  
   **MAKAUT University** – *2023–2027*  
-  - Courses: Data Structures, DBMS, OOP, AI/ML fundamentals
-  - GPA: *[Update if known]*
+  - Courses: Full-Stack Web Developer Course, Chai aur React 
+  - CGPA: *[9.35]*
 
 ---
 
