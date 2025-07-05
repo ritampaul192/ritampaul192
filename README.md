@@ -9,8 +9,8 @@
 
 ## 👨‍🎓 Education
 
-- 🎓 **B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning)**  
-  **MAKAUT University** – *2023–2027*  
+- 🎓 **B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning) in Techno Main Salt Lake**  
+  **MAKAUT University** – *2024–2028*  
   - Courses: Full-Stack Web Developer Course, Chai aur React 
   - CGPA: *[9.35]*
 
