@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=120&section=header&width=100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ritam Paul</h1>
 <h3 align="center">CSE-AIML Student | MERN Developer | Next.Js Enthusiast </h3>
 
