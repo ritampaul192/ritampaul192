@@ -17,12 +17,13 @@ I'm a first-year B.Tech student at **Techno Main Salt Lake**, pursuing **Compute
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
-| Degree                                       | Institution                  | Duration    |
-| -------------------------------------------- | ---------------------------- | ----------- |
-| **B.Tech in CSE (AI & ML)** | Techno Main Salt Lake, Kolkata | 2024 – 2028 |
-| *Key Courses: Full-Stack Web Dev, Chai aur React* | *Current CGPA: 9.35* |             |
+| Degree | Institution | Duration | Grade |
+|--------|-------------|----------|-------|
+| B.Tech in CSE (AI & ML) | Techno Main Salt Lake | 2024 – 2028 | Current CGPA : 9.35|
+| 12th (CBSE) | Ruby Park Public School | 2022 – 2024 | 92.8% |
+| 10th (CBSE) | Andhra Association High School | 2020 – 2022 | 83.6% |
 
 ---
 
@@ -83,15 +84,41 @@ I'm a first-year B.Tech student at **Techno Main Salt Lake**, pursuing **Compute
 
 ---
 
+## 📚 Courses & Certifications
+
+- 🏆 Chai Aur React  
+- 🏆 Sigma Web Development Course
+- 🏆 MERN Developer
+- 📜 Certified in C and Python  
+- 📖 Currently learning Machine Learning  
+
+---
+
 ### 🚀 Projects
 
 > 🛠️ *I'm constantly building and adding new projects. Stay tuned!*
 
-### 🔧 **Bail Reckoner** (Coming Soon)
+### 🔧 **Bail Reckoner**
+
 A legal-tech platform designed to provide quick information on IPC sections, bail eligibility, and a directory of advocates.
-- **Features:** Section-wise bail rules, advocate listings, user dashboards, and more.
-- **Tech Stack:** MERN (MongoDB, Express.js, React, Node.js)
-- **Repo Links:** [Backend](https://github.com/ritampaul192/Backend-Projects) | [Frontend](https://github.com/ritampaul192/FrontEnd-Projects)
+
+### 🔴 **Live Demo:** [https://bail-reckoner.vercel.app/](https://bail-reckoner.vercel.app/](https://bail-reckoner-mttlo3tcd-ritampaul192s-projects.vercel.app/))
+
+## ✨ Key Features
+
+* **Intuitive Questionnaire:** A step-by-step form that guides users through the necessary legal parameters.
+* **AI-Powered Analysis:** Utilizes a smart backend to process inputs and assess them against the provisions of the Bharatiya Nyaya Sanhita (BNS).
+* **Clear Recommendations:** Provides a clear, color-coded outcome (e.g., "Bail Likely," "Bail Unlikely") based on the assessment.
+* **Responsive Design:** Fully functional and accessible on desktops, tablets, and mobile devices.
+* **Modern Tech Stack:** Built with the latest web technologies for a fast, reliable, and seamless user experience.
+
+## 💻 Tech Stack
+
+* **Frontend:** Next.js, React, Tailwind CSS
+* **Backend:** Node.js (within Next.js API routes)
+* **Deployment:** Vercel
+- **Repo Links:** [Bail-Reckoner](https://github.com/ritampaul192/Bail-Reckoner)
+---
 
 ### 🗃️ **Portfolio Website** (Coming Soon)
 - A personal showcase of my skills, projects, and journey as a developer.
