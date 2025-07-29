@@ -1,12 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=120&section=header&width=100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F03000&height=120&section=header&width=100%"/>
 </p>
 
 <h1 align="center" style="font-size: 3rem;">Hi 👋, I'm <span style="color:#8e44ad;">Ritam Paul</span></h1>
 <h3 align="center">CSE-AIML Student | MERN Developer | Next.Js Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Full+Stack+Learner;Backend+Focused+Developer;Hackathon+Participant;Passionate+Problem+Solver" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-6c5ce7?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/FullStack%20Developer-00cec9?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML%20Learner-f39c12?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Machine+Learning+Learner;Data+Analysis;Hackathon+Participant;Passionate+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
@@ -35,7 +40,7 @@ I'm a first-year B.Tech student at **Techno Main Salt Lake**, pursuing **Compute
 ---
 
 ### 🧰 Technical Skills
-
+<div align="center">
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -81,7 +86,7 @@ I'm a first-year B.Tech student at **Techno Main Salt Lake**, pursuing **Compute
     </td>
   </tr>
 </table>
-
+</div>
 ---
 
 ## 📚 Courses & Certifications
@@ -98,13 +103,13 @@ I'm a first-year B.Tech student at **Techno Main Salt Lake**, pursuing **Compute
 
 > 🛠️ *I'm constantly building and adding new projects. Stay tuned!*
 
-### 🔧 **Bail Reckoner**
+## 🔧 **Bail Reckoner**
 
 A legal-tech platform designed to provide quick information on IPC sections, bail eligibility, and a directory of advocates.
 
 ### 🔴 **Live Demo:** [https://bail-reckoner.vercel.app/](https://bail-reckoner.vercel.app/](https://bail-reckoner-mttlo3tcd-ritampaul192s-projects.vercel.app/))
 
-## ✨ Key Features
+### ✨ Key Features
 
 * **Intuitive Questionnaire:** A step-by-step form that guides users through the necessary legal parameters.
 * **AI-Powered Analysis:** Utilizes a smart backend to process inputs and assess them against the provisions of the Bharatiya Nyaya Sanhita (BNS).
@@ -112,7 +117,7 @@ A legal-tech platform designed to provide quick information on IPC sections, bai
 * **Responsive Design:** Fully functional and accessible on desktops, tablets, and mobile devices.
 * **Modern Tech Stack:** Built with the latest web technologies for a fast, reliable, and seamless user experience.
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 * **Frontend:** Next.js, React, Tailwind CSS
 * **Backend:** Node.js (within Next.js API routes)
@@ -148,5 +153,5 @@ A legal-tech platform designed to provide quick information on IPC sections, bai
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=100&section=footer&width=100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F03000&height=100&section=footer&width=100%"/>
 </p>
